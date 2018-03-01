@@ -14,6 +14,7 @@ gem 'activesupport', '~> 5.0'
 gem 'rake', '~> 12.0.0'
 
 gem 'shotgun'
+gem 'nokogiri', '~> 1.8.1'
 
 group :test do
   gem 'shoulda-matchers'
